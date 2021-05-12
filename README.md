@@ -3,7 +3,7 @@
 * **Live link:**
 https://hjc-tribute.web.app/
 
-![](https://github.com/nicolealdurien/wasteNOT/blob/master/static/img/frontpage.png?raw=true)
+![](https://github.com/nicolealdurien/HJC-Tribute/blob/main/public/home.png?raw=true)
 <br /> <br /><br />
 * **Purpose of the app:** <br/><br/>
  This app was created for family members and friends across the country to share images in remembrance of someone who has passed.
@@ -28,20 +28,4 @@ React, Firebase, Node, Express, Javascript, HTML/CSS
 * **Screenshot of Modal:**
 
 
-![](https://github.com/nicolealdurien/wasteNOT/blob/master/static/img/userpages.png?raw=true)
-
-
-
-
-* **Screenshots of Admin Pages:**
-
-
-![](https://github.com/nicolealdurien/wasteNOT/blob/master/static/img/adminpages.png?raw=true)
-
-
-
-
-* **Screenshots of Foodbank Pages:**
-
-
-![](https://github.com/nicolealdurien/wasteNOT/blob/master/static/img/foodbankpages.png?raw=true)
+![](https://github.com/nicolealdurien/HJC-Tribute/blob/main/public/modal.png?raw=true)
