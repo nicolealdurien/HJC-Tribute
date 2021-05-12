@@ -10,7 +10,7 @@ https://hjc-tribute.web.app/
 
 * **Features:** 
 
-    Easy upload of images to photo gallery, with progress bar.
+    Easy upload of images to photo gallery, with progress bar. No registration or login needed.
     
     Zoom-in modal appears when any image is clicked. 
     
