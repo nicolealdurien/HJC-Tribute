@@ -3,7 +3,7 @@
 * **Live link:**
 https://hjc-tribute.web.app/
 
-![](https://github.com/nicolealdurien/HJC-Tribute/blob/main/public/home.png?raw=true)
+![](https://github.com/nicolealdurien/HJC-Tribute/blob/main/public/homepage.png?raw=true)
 <br /> <br /><br />
 * **Purpose of the app:** <br/><br/>
  This app was created for family members and friends across the country to share images in remembrance of someone who has passed.
